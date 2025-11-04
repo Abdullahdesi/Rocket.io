@@ -1,0 +1,41 @@
+{
+  "patches": [
+    {
+      "files": [ "11.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "11.png"
+    },
+    {
+      "files": [ "13.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "13.png"
+    },
+    {
+      "files": [ "28.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "28.png"
+    },
+    {
+      "files": [ "30.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "30.png"
+    },
+    {
+      "files": [ "33.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "33.png"
+    },
+    {
+      "files": [ "pakchunk0-Windows.zip" ],
+      "folder": "game/your_game/Content/Paks/",
+      "version": 0.1,
+      "save_as": "pakchunk0-Windows.zip"
+    }
+
+  ]
+}
