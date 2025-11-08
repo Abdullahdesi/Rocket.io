@@ -1,0 +1,14 @@
+[
+  {
+    "Title": "New VR Experience Released",
+    "Summary": "Experience the new underwater level.",
+    "ImageUrl": "https://example-files.online-convert.com/raster%20image/png/example_small.png",
+    "Content": "Full content of the news item goes here."
+  },
+  {
+    "Title": "Maintenance Notice",
+    "Summary": "Servers will be down 2025-11-15.",
+    "ImageUrl": "",
+    "Content": "Scheduled maintenance details..."
+  }
+]
