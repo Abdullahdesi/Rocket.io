@@ -1,9 +1,8 @@
 {
   "Version": "1.0.0",
+  "NewsUrl": "https://news.google.com/rss?cf=all&hl=en-IN&pz=1&gl=IN&ceid=IN:en",
+  "TipsUrl": "https://news.google.com/rss?cf=all&hl=en-IN&pz=1&gl=IN&ceid=IN:en",
   "Files": [
-    {
-      "FileName": "Golden_Path.exe",
-      "Url": "https://cdn7.gametop.com/games/Golden_Path.exe"
-    }
+    { "FileName": "Golden_Path.exe", "Url": "https://cdn7.gametop.com/games/Golden_Path.exe" }
   ]
 }
