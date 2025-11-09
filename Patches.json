@@ -1,10 +1,10 @@
 {
   "patches": [
         {
-      "files": [ "pakchunk0-Windows.zip" ],
+      "files": [ "GameTest-Windows_0_P.rar" ],
       "folder": "game/GameTest/Content/Paks/",
       "version": 1.1,
-      "save_as": "GameTest-Windows_0_P.rar"
+      "save_as": "GameTest-Windows_0_P.pak"
     }
 
   ]
