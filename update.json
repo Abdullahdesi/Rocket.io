@@ -1,18 +1,12 @@
 {
-  "InstallFolderName": "Rocket",
-  "CreateDesktopShortcut": true,
+  "Version": "1.1.0",
+  "Notes": "Minor fixes and performance improvements.",
   "Files": [
     {
-      "Name": "Azteca",
-      "Version": "1.0.0",
-      "LaunchExecutable": "Azteca.exe",
-      "FileList": [
-        {
-          "Name": "Azteca.exe",
-          "Url": "https://cdn7.gametop.com/games/Azteca.exe",
-          "Path": ""
-        }
-      ]
+      "FileName": "mercedes-a-class-hatchback-2025-april-w177-mbux-owners-manual-1.pdf",
+      "Url": "https://www.mercedes-benz.com.eg/passengercars/owners-manuals/en-eg/pdf/mercedes-a-class-hatchback-2025-april-w177-mbux-owners-manual-1.pdf",
+      "Sha256": "",
+      "Size": 1024
     }
   ]
 }
