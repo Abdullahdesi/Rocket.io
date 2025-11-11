@@ -1,14 +1,6 @@
-[
-  {
-    "Title": "New VR Experience Released",
-    "Summary": "Experience the new underwater level.",
-    "ImageUrl": "https://simracingcockpit.gg/wp-content/uploads/2020/10/pimax-crystal-light-side-1024x576.jpg",
-    "Content": "Full content of the news item goes here."
-  },
-  {
-    "Title": "Maintenance Notice",
-    "Summary": "Servers will be down 2025-11-15.",
-    "ImageUrl": "https://cdn.homecrux.com/wp-content/uploads/2017/12/Vesaro-I-Modular-virtual-reality-simulator.jpg",
-    "Content": "Scheduled maintenance details..."
-  }
-]
+{
+  "Title": "Rocket Launcher 1.0 Released",
+  "Body": "Welcome to Rocket \u2014 fast, smart patching using binary diffs. This is a demo news item.",
+  "Alert": "New update available!",
+  "Locale": "en"
+}
